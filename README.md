@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RohanSkaria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Architecture, Applications, AI/ML.
+- 🌱 I’m currently learning DART and Flutter.
+- 💞️ I’m looking to collaborate on any open source projects you might want help with.
 - 📫 How to reach me rohan.skaria@gmail.com
 
 <!---
